@@ -1,0 +1,33 @@
+
+	SETTINGS UP SASS ENVIROMENTS.
+	=============================
+	STEP-1 INSTALL NODE.
+	https://nodejs.org/en/
+	* node -v
+----------------------------------------------------------------------------
+	STEP-2 INSTALL PACKAGE.JSON FILE.
+	* npm init
+----------------------------------------------------------------------------
+	PACKAGES WE NEED
+	1 - SASS
+	2 - BOOTSTRAP
+	3 - FONTAWESOME
+	4 - AUTOPREFIXER
+
+----------------------------------------------------------------------------
+	SASS INSTALLTION
+	https://www.npmjs.com/package/sass
+	* npm install --save-dev sass
+----------------------------------------------------------------------------
+	BOOTSTRAP INSTALLTION
+	https://getbootstrap.com/
+	* npm install bootstrap --save
+----------------------------------------------------------------------------
+	FONTAWESOME INSTALLTION
+	https://fontawesome.com/v5/docs/web/setup/use-package-managers
+	* npm install --save @fortawesome/fontawesome-free
+----------------------------------------------------------------------------
+	AUTOPREFIXER INSTALLTION
+	https://github.com/postcss/autoprefixer#readme
+	* npm install postcss-cli autoprefixer
+----------------------------------------------------------------------------
